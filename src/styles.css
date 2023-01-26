@@ -1,0 +1,28 @@
+.fj-logo {
+  display: block;
+  max-height: 30px;
+}
+
+.fj-logo-only {
+  display: block;
+  max-height: 50px;
+}
+nav {
+  padding: 20px 0;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+nav li {
+  list-style: none;
+  display: inline;
+  line-height: 42px;
+  margin-left: 15px;
+}
+.profile-photo {
+  max-width: 300px;
+  border-radius: 50px;
+  display: inline;
+  margin: 0 auto;
+}
